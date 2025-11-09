@@ -1,6 +1,4 @@
-# mini-project-2025
-
-🩺 Pneumonia Detection Using Deep Learning.
+🩺 Pneumonia Detection Using Deep Learning-
 
 A deep learning model that detects pneumonia from chest X-ray images using Convolutional Neural Networks (CNNs).
 The system classifies X-rays as Normal or Pneumonia and helps in early diagnosis through automated image analysis.
